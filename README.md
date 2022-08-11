@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adnan4290
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Css
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 insta: itx_adnan.429
 
